@@ -1,0 +1,72 @@
+[
+  {
+    "artist": "Y Niwl",
+    "image": "https://ui-avatars.com/api/?name=Y%20Niwl&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Y Niwl Live at Schubas Tavern on 2011-06-09",
+        "url": "https://archive.org/details/ajc02508_yniwl_2011-06-09"
+      }
+    ]
+  },
+  {
+    "artist": "Young Man",
+    "image": "https://ui-avatars.com/api/?name=Young%20Man&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Young Man Live at Schubas Tavern 2011-01-16",
+        "url": "https://archive.org/details/ajc01533_young-man-2011-01-16"
+      }
+    ]
+  },
+  {
+    "artist": "Young Prisms",
+    "image": "https://ui-avatars.com/api/?name=Young%20Prisms&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Young Prisms Live at Schubas Tavern 2012-11-02",
+        "url": "https://archive.org/details/ajc02949_young_prisms_2012-11-02"
+      }
+    ]
+  },
+  {
+    "artist": "Your Enemies Friends",
+    "image": "https://ui-avatars.com/api/?name=Your%20Enemies%20Friends&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Your Enemies Friends Live at Hideout 2002-06-20",
+        "url": "https://archive.org/details/ajc01424_your-enemies-friends-2002-06-20"
+      }
+    ]
+  },
+  {
+    "artist": "Youth of Today",
+    "image": "https://ui-avatars.com/api/?name=Youth%20of%20Today&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Youth of Today Live at Cubby Bear 1988-07-03",
+        "url": "https://archive.org/details/ajc02171_youthoftoday1988-07-03"
+      }
+    ]
+  },
+  {
+    "artist": "Yowie",
+    "image": "https://ui-avatars.com/api/?name=Yowie&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Yowie Live at Reggies 2016-12-30",
+        "url": "https://archive.org/details/ajc01955_yowie_2016-12-30"
+      }
+    ]
+  },
+  {
+    "artist": "Yum-Yum",
+    "image": "https://ui-avatars.com/api/?name=Yum-Yum&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Yum-Yum Live at Lounge Ax 1996-04-20",
+        "url": "https://archive.org/details/ajc00166_yum-yum_1996-04-20"
+      }
+    ]
+  }
+]

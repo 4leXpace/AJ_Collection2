@@ -1,0 +1,114 @@
+[
+  {
+    "artist": "Uh Bones",
+    "image": "https://ui-avatars.com/api/?name=Uh%20Bones&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Uh Bones Live at Burlington Bar 2014-03-30",
+        "url": "https://archive.org/details/ajc00335_uh-bones-2014-03-30"
+      }
+    ]
+  },
+  {
+    "artist": "Ui",
+    "image": "https://ui-avatars.com/api/?name=Ui&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Ui Live at Lounge Ax 1996-06-07",
+        "url": "https://archive.org/details/ajc01490_ui-1996-06-07"
+      }
+    ]
+  },
+  {
+    "artist": "Ultimate Fakebook",
+    "image": "https://ui-avatars.com/api/?name=Ultimate%20Fakebook&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Ultimate Fakebook Live at Metro on 2002-04-20",
+        "url": "https://archive.org/details/ajc01527_ufb2002-04-20.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Uncle Tupelo",
+    "image": "https://ui-avatars.com/api/?name=Uncle%20Tupelo&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Uncle Tupelo Live at Lounge Ax 1991-10-04",
+        "url": "https://archive.org/details/ajc01324_uncle-tupelo-1991-10-04"
+      },
+      {
+        "title": "Uncle Tupelo Live at Lounge Ax 1992-11-08",
+        "url": "https://archive.org/details/ajc01325_uncle-tupelo-1992-11-08"
+      }
+    ]
+  },
+  {
+    "artist": "Underground Symposium",
+    "image": "https://ui-avatars.com/api/?name=Underground%20Symposium&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Underground Symposium Live at Schubas Tavern 2015-10-12",
+        "url": "https://archive.org/details/ajc01851_underground-symposium-2015-10-12"
+      }
+    ]
+  },
+  {
+    "artist": "Unique Chique",
+    "image": "https://ui-avatars.com/api/?name=Unique%20Chique&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Unique Chique Live at Subterranean 2004-06-07",
+        "url": "https://archive.org/details/ajc01653_unique-chique-2004-06-07"
+      },
+      {
+        "title": "Unique Chique Live at WLUW Record Fair 2005-04-10",
+        "url": "https://archive.org/details/ajc01607_unique_chique_2005-04-10"
+      }
+    ]
+  },
+  {
+    "artist": "Upsilon Acrux",
+    "image": "https://ui-avatars.com/api/?name=Upsilon%20Acrux&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Upsilon Acrux Live at Ronny's 2009-06-21",
+        "url": "https://archive.org/details/ajc01670_upsilonacrux2009-06-21"
+      }
+    ]
+  },
+  {
+    "artist": "Upsy Daisy",
+    "image": "https://ui-avatars.com/api/?name=Upsy%20Daisy&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Upsy Daisy Live at Hideout 2001-06-24",
+        "url": "https://archive.org/details/ajc00304_upsydaisy2001-06-24"
+      }
+    ]
+  },
+  {
+    "artist": "Urban Idols",
+    "image": "https://ui-avatars.com/api/?name=Urban%20Idols&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Urban Idols LIve at Fireside Bowl 1999-05-22",
+        "url": "https://archive.org/details/ajc01442_urban_idols_1999-05-22"
+      }
+    ]
+  },
+  {
+    "artist": "Urinals",
+    "image": "https://ui-avatars.com/api/?name=Urinals&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Urinals Live at Abbey Pub 2009-09-24",
+        "url": "https://archive.org/details/ajc01326_urinals2009-09-24"
+      },
+      {
+        "title": "Urinals Live at Hideout 2016-05-26",
+        "url": "https://archive.org/details/ajc01775_urinals2016-05-26"
+      }
+    ]
+  }
+]

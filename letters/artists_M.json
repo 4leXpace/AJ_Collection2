@@ -1,0 +1,932 @@
+[
+  {
+    "artist": "Mac McCaughan",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music111/v4/41/b9/61/41b96114-5668-1c7b-7d86-f4b8d6228a8e/859719409617_cover.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Mac McCaughan Live at Schubas 2015-07-23",
+        "url": "https://archive.org/details/ajc0232_macmccaughan2015-07-23"
+      }
+    ]
+  },
+  {
+    "artist": "Madder Rose",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music1/v4/c2/11/ac/c211acfc-965f-e7e9-bbe6-0fcf726c0aec/094171422921.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Madder Rose Live at Lounge Ax 1993-05-21",
+        "url": "https://archive.org/details/ajc02781_madderrose1993-05-21"
+      },
+      {
+        "title": "Madder Rose Live at Lounge Ax 1994-05-27",
+        "url": "https://archive.org/details/ajc02782_madderrose1994-05-27"
+      },
+      {
+        "title": "Madder Rose Live at Lounge Ax 1995-04-19",
+        "url": "https://archive.org/details/ajc02783_madderrose1995-04-19"
+      }
+    ]
+  },
+  {
+    "artist": "Made To Fade",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2003/m12/d09/h23/s05.hmruofbr.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Made To Fade Live at Hideout 2001-02-07",
+        "url": "https://archive.org/details/ajc00259_made-to-fade-2001-02-07"
+      }
+    ]
+  },
+  {
+    "artist": "Madeline",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music6/v4/c4/04/82/c4048244-1b1a-25bf-a86f-fac52076bc84/889845778363.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Madeline Live at Bottom Lounge on 2011-11-10",
+        "url": "https://archive.org/details/ajc02720_madeline2011-11-10.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Magic Gloves",
+    "image": "https://ui-avatars.com/api/?name=Magic%20Gloves&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Magic Gloves Live at Schubas 2013-06-09",
+        "url": "https://archive.org/details/ajc0200_magicgloves2013-06-09"
+      }
+    ]
+  },
+  {
+    "artist": "Magic Is Küntmaster",
+    "image": "https://ui-avatars.com/api/?name=Magic%20Is%20K%C3%BCntmaster&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Magic Is Küntmaster Live at Empty Bottle 2007-04-19",
+        "url": "https://archive.org/details/ajc01590_mik_2007-04-19"
+      }
+    ]
+  },
+  {
+    "artist": "Magical Beautiful",
+    "image": "https://ui-avatars.com/api/?name=Magical%20Beautiful&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Magical Beautiful Live at Empty Bottle 2015-06-29",
+        "url": "https://archive.org/details/ajc00175_magicalbeautiful2015-06-29"
+      }
+    ]
+  },
+  {
+    "artist": "Mahogany Throttle",
+    "image": "https://ui-avatars.com/api/?name=Mahogany%20Throttle&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mahogany Throttle Live at Schubas Tavern 2002-02-27",
+        "url": "https://archive.org/details/ajc01535_mahogany-throttle-2002-02-27"
+      }
+    ]
+  },
+  {
+    "artist": "Majeure",
+    "image": "https://ui-avatars.com/api/?name=Majeure&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Majeure Live at Vic Theater 2014-05-16",
+        "url": "https://archive.org/details/ajc00318_majeure2014-05-16"
+      }
+    ]
+  },
+  {
+    "artist": "Makaya McCraven",
+    "image": "https://ui-avatars.com/api/?name=Makaya%20McCraven&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Makaya McCraven Live at Schubas Tavern 2016-11-25",
+        "url": "https://archive.org/details/ajc01949_makayamccraven2016-11-25"
+      }
+    ]
+  },
+  {
+    "artist": "Make Believe",
+    "image": "https://ui-avatars.com/api/?name=Make%20Believe&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Make Believe Live at Logan Square Auditorium 2004-04-17",
+        "url": "https://archive.org/details/ajc01734_makebelieve2004-04-17"
+      }
+    ]
+  },
+  {
+    "artist": "Mal Blum",
+    "image": "https://ui-avatars.com/api/?name=Mal%20Blum&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mal Blum Live at Beat Kitchen 2015-10-29",
+        "url": "https://archive.org/details/ajc01857_malblum2015-10-29"
+      }
+    ]
+  },
+  {
+    "artist": "Mama Tick",
+    "image": "https://ui-avatars.com/api/?name=Mama%20Tick&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mama Tick Live at Lounge Ax 1993-02-04",
+        "url": "https://archive.org/details/ajc02611_mama_tick_1993-02-04"
+      },
+      {
+        "title": "Mama Tick Live at Lounge Ax 1993-06-11",
+        "url": "https://archive.org/details/ajc02612_mamatick1993-06-11"
+      }
+    ]
+  },
+  {
+    "artist": "Man Forever",
+    "image": "https://ui-avatars.com/api/?name=Man%20Forever&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Man Forever Live at The Burlington 2012-06-12",
+        "url": "https://archive.org/details/ajc02808_man-forever-2012-06-12"
+      }
+    ]
+  },
+  {
+    "artist": "Managra",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/fd/75/a8/fd75a861-41e7-9fef-63b5-d5be80a12203/194152757773.png/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Managra Live at Fireside Bowl 1998-05-01",
+        "url": "https://archive.org/details/ajc00127_managra-1998-05-01"
+      }
+    ]
+  },
+  {
+    "artist": "Manishevitz",
+    "image": "https://ui-avatars.com/api/?name=Manishevitz&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Manishevitz Live at Gunther's 2003-11-09",
+        "url": "https://archive.org/details/ajc01735_manishevitz_2003-11-09"
+      },
+      {
+        "title": "Manishevitz Live at Gunthers 2004-01-16",
+        "url": "https://archive.org/details/ajc02064_manishevitz_2004-01-16"
+      }
+    ]
+  },
+  {
+    "artist": "Mannequin Men",
+    "image": "https://ui-avatars.com/api/?name=Mannequin%20Men&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mannequin Men Live at Bottom Lounge 2010-09-30",
+        "url": "https://archive.org/details/ajc01161_mannequin-men-2010-09-30"
+      },
+      {
+        "title": "Mannequin Men Live at Empty Bottle 2012-08-17",
+        "url": "https://archive.org/details/ajc02837_mannequin-men-2012-08-17"
+      }
+    ]
+  },
+  {
+    "artist": "Mantina",
+    "image": "https://ui-avatars.com/api/?name=Mantina&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mantina Live at Hideout Block Party 2016-09-10",
+        "url": "https://archive.org/details/ajc01904_mantina-2016-09-10"
+      }
+    ]
+  },
+  {
+    "artist": "Marc Ribot",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music2/v4/37/29/06/37290663-4229-b070-daf0-07753a6b3616/081159199180.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Marc Ribot Live at Schubas Tavern 2002-10-18",
+        "url": "https://archive.org/details/ajc01212_marc-ribot-2002-10-18"
+      }
+    ]
+  },
+  {
+    "artist": "Marc Ribot's Ceramic Dog",
+    "image": "https://ui-avatars.com/api/?name=Marc%20Ribot%27s%20Ceramic%20Dog&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Marc Ribot's Ceramic Dog Live at Millennium Park - Chicago 2013-05-27",
+        "url": "https://archive.org/details/0144_mribotceramicdog2013-05-27"
+      }
+    ]
+  },
+  {
+    "artist": "Marco Benevento",
+    "image": "https://ui-avatars.com/api/?name=Marco%20Benevento&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Marco Benevento Live at Schubas Tavern on 2013-04-07",
+        "url": "https://archive.org/details/ajc03045_marcobenevento_2013-04-07"
+      }
+    ]
+  },
+  {
+    "artist": "Marijuana Deathsquads",
+    "image": "https://ui-avatars.com/api/?name=Marijuana%20Deathsquads&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Marijuana Deathsquads Live at Empty Bottle 2017-02-19",
+        "url": "https://archive.org/details/ajc01963_marijuanadeathsquads2017-02-19"
+      }
+    ]
+  },
+  {
+    "artist": "Marissa Nadler",
+    "image": "https://ui-avatars.com/api/?name=Marissa%20Nadler&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Marissa Nadler Live at Schubas Tavern 2009-04-18",
+        "url": "https://archive.org/details/ajc01724_marissa-nadler-2009-04-18"
+      },
+      {
+        "title": "Marissa Nadler Live at Schubas Tavern 2009-04-19",
+        "url": "https://archive.org/details/ajc01274_marissa-nadler-2009-04-19"
+      }
+    ]
+  },
+  {
+    "artist": "Maritime",
+    "image": "https://ui-avatars.com/api/?name=Maritime&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Maritime Live at Subterranean on 2007-11-15",
+        "url": "https://archive.org/details/ajc00756_maritime2007-11-15.ajcproject"
+      },
+      {
+        "title": "Maritime Live at Lincoln Hall on 2009-12-10",
+        "url": "https://archive.org/details/ajc01167_maritime2009-12-10.ajcproject"
+      },
+      {
+        "title": "Maritime Live at Do Division Fest on 2010-06-05",
+        "url": "https://archive.org/details/ajc01169_maritime2010-06-05.ajcproject"
+      },
+      {
+        "title": "Maritime Live at Empty Bottle on 2012-03-09",
+        "url": "https://archive.org/details/ajc02747_maritime2012-03-09.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Mark Mallman",
+    "image": "https://ui-avatars.com/api/?name=Mark%20Mallman&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mark Mallman Live at Beat Kitchen 2002-09-18",
+        "url": "https://archive.org/details/ajc01458_mark_mallman_2002-09-18"
+      }
+    ]
+  },
+  {
+    "artist": "Mark Rogers & Mary Byrne",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/ae/ed/e3/aeede39a-1518-c45e-aaa9-48c727655d88/8721215057963.png/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Mark Rogers & Mary Byrne Live at Hideout 2014-11-05",
+        "url": "https://archive.org/details/ajc01795_rogers-byrne2014-11-05"
+      }
+    ]
+  },
+  {
+    "artist": "Marvel Kind",
+    "image": "https://ui-avatars.com/api/?name=Marvel%20Kind&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Marvel Kind Live at Metro 1998-01-09",
+        "url": "https://archive.org/details/ajc01702_marvel-kind-1998-01-09"
+      }
+    ]
+  },
+  {
+    "artist": "Mary Tyler Morphine",
+    "image": "https://ui-avatars.com/api/?name=Mary%20Tyler%20Morphine&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mary Tyler Morphine Live at Lounge Ax 1999-02-13",
+        "url": "https://archive.org/details/ajc01500_mary-tyler-morphine-1999-02-13"
+      }
+    ]
+  },
+  {
+    "artist": "Matt Clark",
+    "image": "https://ui-avatars.com/api/?name=Matt%20Clark&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Matt Clark Live at Hideout 2012-11-13",
+        "url": "https://archive.org/details/ajc02954_mattclark2012-11-13"
+      }
+    ]
+  },
+  {
+    "artist": "Matt Nathanson",
+    "image": "https://ui-avatars.com/api/?name=Matt%20Nathanson&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Matt Nathanson Live at Abbey Pub on 2002-06-10",
+        "url": "https://archive.org/details/ajc01690_mnathanson2002-06-10.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Matt Pond PA",
+    "image": "https://ui-avatars.com/api/?name=Matt%20Pond%20PA&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Matt Pond PA Live at Abbey Pub on 2002-02-23",
+        "url": "https://archive.org/details/ajc03161_mp2002-02-23.ajcproject"
+      },
+      {
+        "title": "Matt Pond PA Live at Schubas Tavern on 2002-11-08",
+        "url": "https://archive.org/details/ajc03162_mp2002-11-08.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Matt Tiegler",
+    "image": "https://ui-avatars.com/api/?name=Matt%20Tiegler&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Matt Tiegler Live at Uncommon Ground 2002-10-19",
+        "url": "https://archive.org/details/ajc01578_matttiegler2002-10-19"
+      }
+    ]
+  },
+  {
+    "artist": "Matt Wertz",
+    "image": "https://ui-avatars.com/api/?name=Matt%20Wertz&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Matt Wertz and Friends Live at Schubas Tavern on 2004-04-26",
+        "url": "https://archive.org/details/ajc01022_mattwertz2004-04-26.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Matthew Dear",
+    "image": "https://ui-avatars.com/api/?name=Matthew%20Dear&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Matthew Dear Live at Pitchfork Music Festival on 2006-07-29",
+        "url": "https://archive.org/details/ajc03214_matthewdear_2006-07-29"
+      }
+    ]
+  },
+  {
+    "artist": "Mazes",
+    "image": "https://ui-avatars.com/api/?name=Mazes&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mazes Live at Schubas Tavern 2011-10-30",
+        "url": "https://archive.org/details/ajc02714_mazes_2011-10-30"
+      },
+      {
+        "title": "Mazes Live at Empty Bottle 2012-08-13",
+        "url": "https://archive.org/details/ajc02830_mazes_2012-08-13"
+      }
+    ]
+  },
+  {
+    "artist": "Meat Puppets",
+    "image": "https://ui-avatars.com/api/?name=Meat%20Puppets&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Meat Puppets Live at Schubas Tavern on 2009-11-12",
+        "url": "https://archive.org/details/ajc01202_mp2009-11-12.ajcproject"
+      },
+      {
+        "title": "Meat Puppets Live at Schubas Tavern on 2009-11-14",
+        "url": "https://archive.org/details/ajc01204_mp2009-11-14.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Meat Wave",
+    "image": "https://ui-avatars.com/api/?name=Meat%20Wave&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Meat Wave Live at Township 2013-09-07",
+        "url": "https://archive.org/details/ajc00278_meatwave2013-09-07"
+      },
+      {
+        "title": "Meat Wave Live at Observatory Studios 2015-09-26",
+        "url": "https://archive.org/details/ajc01846_meat-wave-2015-09-26"
+      },
+      {
+        "title": "Meat Wave Live at Empty Bottle 2015-12-12",
+        "url": "https://archive.org/details/ajc01865_meat-wave-2015-12-12"
+      },
+      {
+        "title": "Meat Wave Live at Reckless Records 2017-02-24",
+        "url": "https://archive.org/details/ajc01964_meatwave-2017-02-24"
+      },
+      {
+        "title": "Meat Wave Live at Empty Bottle 2017-02-25 (Record Release Party)",
+        "url": "https://archive.org/details/ajc01966_meatwave-2017-02-25"
+      },
+      {
+        "title": "Meat Wave Live at Caliwaukee 2018-03-31",
+        "url": "https://archive.org/details/ajc02034_meat-wave-2018-03-31"
+      }
+    ]
+  },
+  {
+    "artist": "Megan Reilly",
+    "image": "https://ui-avatars.com/api/?name=Megan%20Reilly&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Megan Reilly Live at Hideout 2008-09-27",
+        "url": "https://archive.org/details/ajc01213_megan-reilly-2008-09-27"
+      },
+      {
+        "title": "Megan Reilly Live at Hideout 2012-06-09",
+        "url": "https://archive.org/details/ajc02804_meganreilly2012-06-09"
+      }
+    ]
+  },
+  {
+    "artist": "Mekons",
+    "image": "https://ui-avatars.com/api/?name=Mekons&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mekons Live at University of Chicago on 1987-05-01",
+        "url": "https://archive.org/details/mek1987-05-01.shnf"
+      },
+      {
+        "title": "Mekons Live at Cubby Bear on 1987-05-03",
+        "url": "https://archive.org/details/ajc01172_mekons1987-05-03.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Cabaret Metro on 1988-11-19",
+        "url": "https://archive.org/details/mek1988-11-19.shnf"
+      },
+      {
+        "title": "Mekons Live at Lounge Ax on 1992-06-14",
+        "url": "https://archive.org/details/ajc01175_mekons1992-06-14.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Lounge Ax on 1996-08-28",
+        "url": "https://archive.org/details/ajc01176_mekons1996-08-28.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Schubas Tavern on 1996-09-03",
+        "url": "https://archive.org/details/mek1996-09-03.shnf"
+      },
+      {
+        "title": "Mekons Live at Museum of Contemporary Art on 1997-09-20",
+        "url": "https://archive.org/details/ajc01327_mekons1997-09-20.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Lounge Ax on 1997-11-20",
+        "url": "https://archive.org/details/ajc01346_mekons1997-11-20.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Schubas Tavern on 1999-10-10 (as Where Were U2)",
+        "url": "https://archive.org/details/ajc00760_mekons1999-10-10.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Double Door on 2001-04-21",
+        "url": "https://archive.org/details/mekons2001-04-21.flac"
+      },
+      {
+        "title": "Mekons Live at Hideout on 2001-10-14",
+        "url": "https://archive.org/details/mekons2001-10-14.alternative"
+      },
+      {
+        "title": "Mekons Live at Fitzgerald's on 2002-03-04",
+        "url": "https://archive.org/details/mekons2002-03-04"
+      },
+      {
+        "title": "Mekons Live at Rehearsals on 2002-03-04",
+        "url": "https://archive.org/details/ajc01178_mekons2002-03-04.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Abbey Pub on 2002-09-13",
+        "url": "https://archive.org/details/ajc00905_mekons2002-09-13.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Fitzgerald's on 2002-09-14",
+        "url": "https://archive.org/details/ajc00906_mekons2002-09-14.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Fitzgerald's, Berwyn, IL on 2004-03-28",
+        "url": "https://archive.org/details/mekons2004-03-28"
+      },
+      {
+        "title": "Mekons Live at Old Town School of Folk on 2007-09-28 (Late show)",
+        "url": "https://archive.org/details/ajc00763_mekons2007-09-28.late.ajcproject"
+      },
+      {
+        "title": "Mekons Live at The Mutiny on 2007-10-12",
+        "url": "https://archive.org/details/Mekons2007-10-12"
+      },
+      {
+        "title": "Mekons Live at Schubas Tavern on 2008-03-25 (Early show)",
+        "url": "https://archive.org/details/ajc00765_mekons2008-03-25.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Schubas Tavern on 2008-03-25 (Late show)",
+        "url": "https://archive.org/details/ajc00764_mekons2008-03-25.ajcproject"
+      },
+      {
+        "title": "Mekons Live at Square Roots Festival on 2015-07-10",
+        "url": "https://archive.org/details/ajc00322_mekons2015-07-10.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Melkbelly",
+    "image": "https://ui-avatars.com/api/?name=Melkbelly&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Melkbelly Live at Empty Bottle 2015-12-12",
+        "url": "https://archive.org/details/ajc01866_melkbelly_2015-12-12"
+      }
+    ]
+  },
+  {
+    "artist": "Mere Oracle",
+    "image": "https://ui-avatars.com/api/?name=Mere%20Oracle&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mere Oracle Live at Hideout on 2013-05-09",
+        "url": "https://archive.org/details/ajc03056_mereoracle_2013-05-09"
+      }
+    ]
+  },
+  {
+    "artist": "Metal Tongues",
+    "image": "https://ui-avatars.com/api/?name=Metal%20Tongues&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Metal Tongues Live at The Whistler 2016-12-28",
+        "url": "https://archive.org/details/ajc01952_metal-tongues-2016-12-28"
+      }
+    ]
+  },
+  {
+    "artist": "METZ",
+    "image": "https://ui-avatars.com/api/?name=METZ&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "METZ Live at Empty Bottle 2017-03-05",
+        "url": "https://archive.org/details/ajc01971_metz_2017-03-05"
+      },
+      {
+        "title": "METZ Live at Logan Square Arts Festival 2017-06-24",
+        "url": "https://archive.org/details/ajc01987_metz_2017-06-24"
+      }
+    ]
+  },
+  {
+    "artist": "Mia Doi Todd",
+    "image": "https://ui-avatars.com/api/?name=Mia%20Doi%20Todd&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mia Doi Todd Live at Abbey Pub 2002-06-12",
+        "url": "https://archive.org/details/ajc01691_miadoitodd2002-06-12"
+      }
+    ]
+  },
+  {
+    "artist": "Minnow",
+    "image": "https://ui-avatars.com/api/?name=Minnow&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Minnow Live at Lounge Ax 1999-02-19",
+        "url": "https://archive.org/details/ajc01569_minnow_1999-02-19"
+      }
+    ]
+  },
+  {
+    "artist": "Minus 5",
+    "image": "https://ui-avatars.com/api/?name=Minus%205&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Minus 5 Live at Lounge Ax 1997-08-16",
+        "url": "https://archive.org/details/ajc00766_minus-5-1997-08-16"
+      },
+      {
+        "title": "Minus 5 Live at Abbey Pub 2006-03-22",
+        "url": "https://archive.org/details/ajc01183_minus-5-2006-03-22"
+      }
+    ]
+  },
+  {
+    "artist": "Minus The Bear",
+    "image": "https://ui-avatars.com/api/?name=Minus%20The%20Bear&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Minus The Bear Live at Metro 2004-05-29",
+        "url": "https://archive.org/details/ajc01707_minus-the-bear-2004-05-29"
+      }
+    ]
+  },
+  {
+    "artist": "Minutes",
+    "image": "https://ui-avatars.com/api/?name=Minutes&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Minutes Live at Quenchers Saloon 2012-03-03",
+        "url": "https://archive.org/details/ajc02745_minutes2012-03-03"
+      }
+    ]
+  },
+  {
+    "artist": "Miracle Condition",
+    "image": "https://ui-avatars.com/api/?name=Miracle%20Condition&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Miracle Condition Live at Empty Bottle 2010-10-18",
+        "url": "https://archive.org/details/ajc01635_miracle-condition-2010-10-18"
+      },
+      {
+        "title": "Miracle Condition Live at Hideout 2012-02-09",
+        "url": "https://archive.org/details/ajc02737_miracle-condition-2012-02-09"
+      },
+      {
+        "title": "Miracle Condition Live at Lily Reid Holt Memorial Chapel, Lake Forest College on 2013-02-15",
+        "url": "https://archive.org/details/ajc03033_miraclecondition_2013-02-15"
+      }
+    ]
+  },
+  {
+    "artist": "Miss Fits and the Astro Zombies",
+    "image": "https://ui-avatars.com/api/?name=Miss%20Fits%20and%20the%20Astro%20Zombies&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Miss Fits and the Astro Zombies Live at Schubas Tavern 2012-12-01",
+        "url": "https://archive.org/details/ajc02971_missfitsandtheastrozombies2012-12-01"
+      }
+    ]
+  },
+  {
+    "artist": "Mission of Burma",
+    "image": "https://ui-avatars.com/api/?name=Mission%20of%20Burma&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mission of Burma Live at Metro on 2004-10-23",
+        "url": "https://archive.org/details/mob2004-10-23.flac16"
+      },
+      {
+        "title": "Mission of Burma Live at Union Park - Aluminum Stage on 2006-07-30",
+        "url": "https://archive.org/details/ajc00775_mob2006-07-30.ajcproject"
+      },
+      {
+        "title": "Mission of Burma Live at Double Door on 2007-01-12",
+        "url": "https://archive.org/details/ajc00776_mob2007-01-12.ajcproject"
+      },
+      {
+        "title": "Mission of Burma Live at Subterranean on 2010-07-30",
+        "url": "https://archive.org/details/ajc01185_mob2010-07-30.ajcproject"
+      },
+      {
+        "title": "Mission of Burma Live at Wicker Park - North Stage on 2010-07-31",
+        "url": "https://archive.org/details/ajc00778_mob2010-07-31.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Mobius Band",
+    "image": "https://ui-avatars.com/api/?name=Mobius%20Band&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mobius Band Live at Empty Bottle 2005-06-08",
+        "url": "https://archive.org/details/ajc01186_mobius-band-2005-06-08"
+      }
+    ]
+  },
+  {
+    "artist": "Modern Advances",
+    "image": "https://ui-avatars.com/api/?name=Modern%20Advances&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Modern Advances Live at Quenchers Saloon 2015-02-14",
+        "url": "https://archive.org/details/ajc0176_modernadvances2015-02-14"
+      }
+    ]
+  },
+  {
+    "artist": "Modern Skirts",
+    "image": "https://ui-avatars.com/api/?name=Modern%20Skirts&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Modern Skirts Live at Schubas Tavern 2009-11-18",
+        "url": "https://archive.org/details/ajc01520_modern-skirts-2009-11-18"
+      }
+    ]
+  },
+  {
+    "artist": "Mogwai",
+    "image": "https://ui-avatars.com/api/?name=Mogwai&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mogwai Live at Reckless Records on 1997-10-15",
+        "url": "https://archive.org/details/ajc00954_mogwai1997-10-15.ajcproject"
+      },
+      {
+        "title": "Mogwai Live at Metro on 2003-10-02",
+        "url": "https://archive.org/details/ajc01187_mogwai2003-10-02.ajcproject"
+      },
+      {
+        "title": "Mogwai Live at Metro on 2011-04-29",
+        "url": "https://archive.org/details/ajc01188_mogwai2011-04-29.ajcproject"
+      },
+      {
+        "title": "Mogwai Live at Vic Theater on 2014-05-16",
+        "url": "https://archive.org/details/ajc00323_mogwai2014-05-16.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Mojo Nixon",
+    "image": "https://ui-avatars.com/api/?name=Mojo%20Nixon&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mojo Nixon Live at Cubby Bear on 1988-07-01",
+        "url": "https://archive.org/details/ajc02226_mojonixon-skidroper1988-07-01.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Mono",
+    "image": "https://ui-avatars.com/api/?name=Mono&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mono Live at Abbey Pub 2003-04-18",
+        "url": "https://archive.org/details/ajc01190_mono-2003-04-18"
+      }
+    ]
+  },
+  {
+    "artist": "Moon Swoon",
+    "image": "https://ui-avatars.com/api/?name=Moon%20Swoon&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Moon Swoon Live at South Union Arts 2007-06-17",
+        "url": "https://archive.org/details/ajc01656_moon-swoon-2007-06-17"
+      }
+    ]
+  },
+  {
+    "artist": "Mooner",
+    "image": "https://ui-avatars.com/api/?name=Mooner&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mooner Live at Empty Bottle 2015-05-11",
+        "url": "https://archive.org/details/0177_mooner2015-05-11"
+      }
+    ]
+  },
+  {
+    "artist": "Moonshake",
+    "image": "https://ui-avatars.com/api/?name=Moonshake&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Moonshake Live at Lounge Ax 1993-07-02",
+        "url": "https://archive.org/details/ajc02228_moonshake_1993-07-02"
+      },
+      {
+        "title": "Moonshake Live at Empty Bottle 1996-08-10",
+        "url": "https://archive.org/details/ajc02229_moonshake_1996-08-10"
+      }
+    ]
+  },
+  {
+    "artist": "Moonshine Willy",
+    "image": "https://ui-avatars.com/api/?name=Moonshine%20Willy&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Moonshine Willy Live at Lounge Ax 1996-05-18",
+        "url": "https://archive.org/details/ajc02223_moonshinewilly1996-05-18"
+      },
+      {
+        "title": "Moonshine Willy Live at Lounge Ax 1996-05-29",
+        "url": "https://archive.org/details/ajc02222_moonshinewilly1996-05-29"
+      },
+      {
+        "title": "Moonshine Willy Live at Empty Bottle 1998-02-21",
+        "url": "https://archive.org/details/ajc00227_moonshinewilly1998-02-21"
+      },
+      {
+        "title": "Moonshine Willy Live at Hideout Block Party 2009-09-12",
+        "url": "https://archive.org/details/ajc03120_moonshinewilly2009-09-12"
+      }
+    ]
+  },
+  {
+    "artist": "Moritat",
+    "image": "https://ui-avatars.com/api/?name=Moritat&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Moritat Live at Schubas Tavern 2017-11-24",
+        "url": "https://archive.org/details/ajc02016_moritat_2017-11-24"
+      }
+    ]
+  },
+  {
+    "artist": "Mount Pilot",
+    "image": "https://ui-avatars.com/api/?name=Mount%20Pilot&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mount Pilot Live at Empty Bottle 1997-07-11",
+        "url": "https://archive.org/details/ajc00078_mount-pilot-1997-07-11"
+      }
+    ]
+  },
+  {
+    "artist": "Mr. Rudy Day",
+    "image": "https://ui-avatars.com/api/?name=Mr.%20Rudy%20Day&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mr. Rudy Day Live at Hideout 2005-04-02",
+        "url": "https://archive.org/details/ajc01358_mrrudyday2005-04-02"
+      },
+      {
+        "title": "Mr. Rudy Day Live at Hideout 2016-09-10",
+        "url": "https://archive.org/details/ajc01905_mrd_2016-09-10"
+      }
+    ]
+  },
+  {
+    "artist": "Mt. Egypt",
+    "image": "https://ui-avatars.com/api/?name=Mt.%20Egypt&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mt. Egypt Live at Schubas Tavern 2006-06-07",
+        "url": "https://archive.org/details/ajc02865_mt-egypt-2006-06-07"
+      }
+    ]
+  },
+  {
+    "artist": "Mt. St. Helens",
+    "image": "https://ui-avatars.com/api/?name=Mt.%20St.%20Helens&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mt St Helens Live at Fireside Bowl 2002-03-19",
+        "url": "https://archive.org/details/ajc01672_mt-st-helens-2002-03-19"
+      }
+    ]
+  },
+  {
+    "artist": "Mucca Pazza",
+    "image": "https://ui-avatars.com/api/?name=Mucca%20Pazza&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mucca Pazza Live at Do Division Fest 2008-05-31",
+        "url": "https://archive.org/details/ajc00951_mucca_pazza_2008-05-31"
+      },
+      {
+        "title": "Mucca Pazza Live at Tour de Fat at Palmer Square 2013-05-27",
+        "url": "https://archive.org/details/0129_muccapazza2013-05-27"
+      }
+    ]
+  },
+  {
+    "artist": "Murder By Death",
+    "image": "https://ui-avatars.com/api/?name=Murder%20By%20Death&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Murder By Death Live at Metro 2004-05-29",
+        "url": "https://archive.org/details/ajc01706_murder-by-death-2004-05-29"
+      }
+    ]
+  },
+  {
+    "artist": "Museum",
+    "image": "https://ui-avatars.com/api/?name=Museum&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Museum Live at Lounge Ax 1997-08-30",
+        "url": "https://archive.org/details/ajc00083_museum_1997-08-30"
+      }
+    ]
+  },
+  {
+    "artist": "My Lai",
+    "image": "https://ui-avatars.com/api/?name=My%20Lai&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "My Lai Live at Empty Bottle 1998-04-20",
+        "url": "https://archive.org/details/ajc01470_mylai1998-04-20"
+      }
+    ]
+  },
+  {
+    "artist": "Mykel Boyd",
+    "image": "https://ui-avatars.com/api/?name=Mykel%20Boyd&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Mykel Boyd Live at Empty Bottel 2013-10-13",
+        "url": "https://archive.org/details/ajc0235_mykelboyd2013-10-13"
+      }
+    ]
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "artist": "Earlimart",
+    "image": "https://ui-avatars.com/api/?name=Earlimart&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Earlimart Live at Abbey Pub on 2002-10-21",
+        "url": "https://archive.org/details/ajc00658_earlimart2002-10-21.ajcproject"
+      },
+      {
+        "title": "Earlimart Live at Beat Kitchen on 2003-02-22",
+        "url": "https://archive.org/details/ajc00659_earlimart2003-02-22.ajcproject"
+      },
+      {
+        "title": "Earlimart Live at Beat Kitchen on 2003-03-17",
+        "url": "https://archive.org/details/ajc02063_earlimart2003-03-17.ajcproject"
+      },
+      {
+        "title": "Earlimart Live at Schubas Tavern on 2005-05-12",
+        "url": "https://archive.org/details/ajc00660_earlimart2005-05-12.ajcproject"
+      },
+      {
+        "title": "Earlimart Live at Schubas Tavern on 2005-10-20",
+        "url": "https://archive.org/details/ajc00661_earlimart2005-10-20.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Edith Frost",
+    "image": "https://ui-avatars.com/api/?name=Edith%20Frost&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Edith Frost Live at Empty Bottle 2004-12-11",
+        "url": "https://archive.org/details/ajc00662_edith-frost-2004-12-11"
+      },
+      {
+        "title": "Edith Frost Live at Beat Kitchen 2004-12-30",
+        "url": "https://archive.org/details/ajc01728_edithfrost2004-12-30"
+      }
+    ]
+  },
+  {
+    "artist": "Eel Pie",
+    "image": "https://ui-avatars.com/api/?name=Eel%20Pie&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Eel Pie Live at Lounge Ax 1997-09-11",
+        "url": "https://archive.org/details/ajc00286_eelpie1997-09-11"
+      }
+    ]
+  },
+  {
+    "artist": "Egon",
+    "image": "https://ui-avatars.com/api/?name=Egon&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Egon Live at Fireside Bowl 2000-05-23",
+        "url": "https://archive.org/details/ajc02392_egon_2000-05-23"
+      },
+      {
+        "title": "Egon Live at Fireside Bowl 2002-03-19",
+        "url": "https://archive.org/details/ajc01671_egon-2002-03-19"
+      }
+    ]
+  },
+  {
+    "artist": "El Vez",
+    "image": "https://ui-avatars.com/api/?name=El%20Vez&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "El Vez Live at Empty Bottle 2000-09-28",
+        "url": "https://archive.org/details/ajc02409_el-vez-2000-09-28"
+      }
+    ]
+  },
+  {
+    "artist": "Ela",
+    "image": "https://ui-avatars.com/api/?name=Ela&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Ela Live at Schubas Tavern 2004-01-17",
+        "url": "https://archive.org/details/ajc02395_ela2004-01-17"
+      }
+    ]
+  },
+  {
+    "artist": "electrelane",
+    "image": "https://ui-avatars.com/api/?name=electrelane&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "electrelane Live at Abbey Pub on 2003-05-14",
+        "url": "https://archive.org/details/ajc02397_electrelane2003-05-14.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Elefant",
+    "image": "https://ui-avatars.com/api/?name=Elefant&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Elefant Live at Schubas Tavern 2004-10-18",
+        "url": "https://archive.org/details/ajc02398_elefant2004-10-18"
+      }
+    ]
+  },
+  {
+    "artist": "Elekibass",
+    "image": "https://ui-avatars.com/api/?name=Elekibass&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Elekibass Live at Schubas Tavern 2003-03-03",
+        "url": "https://archive.org/details/ajc02399_elekibass-2003-03-03"
+      }
+    ]
+  },
+  {
+    "artist": "Elevator Division",
+    "image": "https://ui-avatars.com/api/?name=Elevator%20Division&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Elevator Division Live at Fireside Bowl 2000-05-23",
+        "url": "https://archive.org/details/ajc02400_elevator_division_2000-05-23"
+      }
+    ]
+  },
+  {
+    "artist": "Elevator To Hell",
+    "image": "https://ui-avatars.com/api/?name=Elevator%20To%20Hell&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Elevator To Hell Live at Empty Bottle 1997-06-16",
+        "url": "https://archive.org/details/ajc02401_elevatortohell1997-06-16"
+      }
+    ]
+  },
+  {
+    "artist": "Eleventh Dream Day",
+    "image": "https://ui-avatars.com/api/?name=Eleventh%20Dream%20Day&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Eleventh Dream Day Live at Abbey Pub on 2001-09-01",
+        "url": "https://archive.org/details/ajc00666_edd2001-09-01.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Empty Bottle on 2002-08-25",
+        "url": "https://archive.org/details/ajc00667_edd2002-08-25.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Abbey Pub on 2002-11-27",
+        "url": "https://archive.org/details/ajc00668_edd2002-11-27.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Hideout on 2008-10-26",
+        "url": "https://archive.org/details/ajc01368_edd2008-10-26.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Hideout on 2008-12-07",
+        "url": "https://archive.org/details/ajc00729_edd2008-12-07.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Hideout on 2010-05-02",
+        "url": "https://archive.org/details/ajc01378_edd2010-05-02.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Hideout on 2010-05-23",
+        "url": "https://archive.org/details/ajc00674_edd2010-05-23.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Hideout on 2010-11-18",
+        "url": "https://archive.org/details/ajc01377_edd2010-11-18.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Lincoln Hall on 2011-04-22",
+        "url": "https://archive.org/details/ajc01374_edd2011-04-22.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at The Hideout on 2013-06-16",
+        "url": "https://archive.org/details/0149_edd2013-06-16"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Hideout on 2014-04-13",
+        "url": "https://archive.org/details/ajc00305_edd2014-04-13.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Hideout on 2014-04-27",
+        "url": "https://archive.org/details/ajc00307_edd2014-04-27.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Rainbo Club on 2015-08-16",
+        "url": "https://archive.org/details/ajc0222_edd2015-08-16.ajcproject"
+      },
+      {
+        "title": "Eleventh Dream Day Live at Andersonville City Made Fest on 2015-09-12",
+        "url": "https://archive.org/details/ajc0220_edd2015-09-12.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Elf Power",
+    "image": "https://ui-avatars.com/api/?name=Elf%20Power&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Elf Power Live at Reckless Records 1998-04-25",
+        "url": "https://archive.org/details/ajc01363_elf-power-1998-04-25"
+      },
+      {
+        "title": "Elf Power Live at Lounge Ax 1999-03-26",
+        "url": "https://archive.org/details/ajc00676_elf-power-1999-03-26"
+      },
+      {
+        "title": "Elf Power Live at Schubas Tavern 2000-11-14",
+        "url": "https://archive.org/details/ajc01365_elf-power-2000-11-14"
+      },
+      {
+        "title": "Elf Power Live at The Abbey 2002-09-27",
+        "url": "https://archive.org/details/ajc00677_elfpower2002-09-27"
+      },
+      {
+        "title": "Elf Power Live at Subterranean 2004-11-19",
+        "url": "https://archive.org/details/ajc00678_elf-power-2004-11-19"
+      }
+    ]
+  },
+  {
+    "artist": "Elkland",
+    "image": "https://ui-avatars.com/api/?name=Elkland&size=800&background=1f2937&color=ffffff&bold=true",
+    "links": [
+      {
+        "title": "Elkland Live at Schubas Tavern 2003-11-05",
+        "url": "https://archive.org/details/ajc02407_elkland-2003-11-05"
+      }
+    ]
+  },
+  {
+    "artist": "Emily Jane Powers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e2/c1/63/e2c16374-e6e8-d7c5-51cf-e9bf382fbe46/638865097417.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Emily Jane Powers Live at Beat Kitchen 2015-09-04",
+        "url": "https://archive.org/details/ajc00308_emilyjanepowers_2015-09-04"
+      }
+    ]
+  },
+  {
+    "artist": "Emperor Penguin",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m06/d24/h20/s05.qpckghkw.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Emperor Penguin Live at Empty Bottle 1999-10-01",
+        "url": "https://archive.org/details/ajc02393_emperorpenguin1999-10-01"
+      },
+      {
+        "title": "Emperor Penguin Live at Empty Bottle 2000-03-04",
+        "url": "https://archive.org/details/ajc02394_emperorpenguin2000-03-04"
+      }
+    ]
+  },
+  {
+    "artist": "Enon",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music30/v4/55/2f/8b/552f8bf2-2068-1043-e411-7c0010c53200/cover.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Enon Live at Centrum Hall 2001-05-10",
+        "url": "https://archive.org/details/ajc02419_enon2001-05-10"
+      },
+      {
+        "title": "Enon Live at Abbey Pub 2003-10-16",
+        "url": "https://archive.org/details/ajc02417_enon2003-10-16"
+      },
+      {
+        "title": "Enon Live at Logan Square Auditorium 2004-04-17",
+        "url": "https://archive.org/details/ajc02418_enon2004-04-17"
+      },
+      {
+        "title": "Enon Live at Abbey Pub 2007-10-27",
+        "url": "https://archive.org/details/ajc02416_enon2007-10-27"
+      }
+    ]
+  },
+  {
+    "artist": "Eric Ziegenhagen",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2005/m02/d08/h04/s05.hknfryid.tif/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Eric Ziegenhagen Live at Hideout 2005-01-28",
+        "url": "https://archive.org/details/ajc00682_ericziegenhagen2005-01-28"
+      }
+    ]
+  },
+  {
+    "artist": "Erin McKeown",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Features/v4/f0/19/7f/f0197fcb-96a8-e724-55cf-1c77185cbf15/dj.nelmulqv.tif/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Erin McKeown's Fuck That! Anti-Holiday Show Live at Schubas Tavern on 2011-12-08",
+        "url": "https://archive.org/details/ajc02727_erinmckeown2011-12-08.ajcproject"
+      },
+      {
+        "title": "Erin McKeown Live at Hideout on 2013-01-25",
+        "url": "https://archive.org/details/ajc03024_erinmckeown_2013-01-25"
+      },
+      {
+        "title": "Erin McKeown Live at Hideout on 2013-12-15",
+        "url": "https://archive.org/details/ajc00263_erinmckeown2013-12-15.ajcproject"
+      }
+    ]
+  },
+  {
+    "artist": "Errors",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/d6/06/95/mzi.jcfdznrz.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Errors Live at Metro 2011-04-29",
+        "url": "https://archive.org/details/ajc01375_errors2011-04-29"
+      }
+    ]
+  },
+  {
+    "artist": "Ester Drang",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m03/d09/h19/s05.dlxejesn.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Ester Drang Live at Abbey Pub on 2003-10-29",
+        "url": "https://archive.org/details/ajc03209_esterdrang_2003-10-29"
+      }
+    ]
+  },
+  {
+    "artist": "Eternal Summers",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/48/d4/14/48d41489-8c2a-2757-aa69-6fac3d478168/cover.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Eternal Summers Live at Schubas Tavern 2012-09-01",
+        "url": "https://archive.org/details/ajc02841_eternal_summers_2012-09-01"
+      }
+    ]
+  },
+  {
+    "artist": "Exo",
+    "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e0/e6/45/e0e6457b-98c2-e86a-158f-63f234e62ed7/EXO_04_THE_WAR_DC_KOREAN_Ver.jpg/1200x1200bb.jpg",
+    "links": [
+      {
+        "title": "Exo Live at Metro 2006-01-14",
+        "url": "https://archive.org/details/ajc01474_exo-2006-01-14"
+      }
+    ]
+  }
+]

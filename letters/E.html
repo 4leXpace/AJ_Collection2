@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AJ Collection - E</title>
+
+<style>
+body{
+    margin:0;
+    font-family:system-ui,sans-serif;
+    background:#0b1020;
+    color:white;
+}
+
+header{
+    padding:30px 20px;
+    text-align:center;
+}
+
+.container{
+    max-width:1280px;
+    margin:auto;
+    padding:20px;
+}
+
+.back{
+    display:inline-block;
+    margin-bottom:20px;
+    color:#dbeafe;
+    text-decoration:none;
+}
+
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(320px,1fr));
+    gap:24px;
+}
+
+.card{
+    background:#151c33;
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.card img{
+    width:100%;
+    aspect-ratio:16/9;
+    object-fit:cover;
+    background:#1f2937;
+}
+
+.content{
+    padding:20px;
+}
+
+a{color:#dbeafe}
+
+ul{padding-left:20px}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Lettre E</h1>
+</header>
+
+<div class="container">
+
+<a class="back" href="../index_full.html">← Retour accueil</a>
+
+<div id="grid" class="grid"></div>
+
+</div>
+
+<script>
+fetch('artists_E.json')
+.then(r=>r.json())
+.then(data=>{
+
+    const grid=document.getElementById('grid');
+
+    data.forEach(item=>{
+
+        grid.innerHTML += `
+        <div class="card">
+            <img
+                loading="lazy"
+                decoding="async"
+                src="${item.image || ''}"
+                alt="${item.artist}">
+            <div class="content">
+                <h2 id="${encodeURIComponent(item.artist)}">${item.artist}</h2>
+                <p>${item.recordings?.length || 0} enregistrement(s)</p>
+
+                <ul>
+                ${(item.recordings || []).map(r=>
+                    `<li><a href="${r.url}" target="_blank">${r.title}</a></li>`
+                ).join('')}
+                </ul>
+            </div>
+        </div>
+        `;
+    });
+});
+</script>
+
+</body>
+</html>
