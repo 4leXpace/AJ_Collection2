@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AJ Collection</title>
+
+<style>
+body{
+    margin:0;
+    font-family:system-ui,sans-serif;
+    background:#0b1020;
+    color:white;
+}
+
+header{
+    text-align:center;
+    padding:70px 20px 40px;
+}
+
+h1{
+    font-size:3rem;
+    margin:0 0 12px;
+}
+
+.subtitle{
+    opacity:.8;
+}
+
+.container{
+    max-width:1200px;
+    margin:auto;
+    padding:20px;
+}
+
+.search{
+    width:100%;
+    padding:18px;
+    border:none;
+    border-radius:18px;
+    background:#182235;
+    color:white;
+    font-size:1rem;
+    box-sizing:border-box;
+}
+
+.letters{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(70px,1fr));
+    gap:14px;
+    margin-top:40px;
+}
+
+.letter{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:80px;
+    background:#151c33;
+    border-radius:18px;
+    text-decoration:none;
+    color:white;
+    font-size:1.8rem;
+    font-weight:bold;
+    transition:.2s;
+}
+
+.letter:hover{
+    background:#223052;
+    transform:translateY(-3px);
+}
+
+.results{
+    margin-top:40px;
+}
+
+.artist{
+    padding:14px 0;
+    border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.artist a{
+    color:#dbeafe;
+    text-decoration:none;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Archive Music Library</h1>
+    <div class="subtitle">AJ Collection</div>
+</header>
+
+<div class="container">
+
+<input
+    class="search"
+    id="search"
+    placeholder="Rechercher un artiste..."
+>
+
+<div class="letters" id="letters"></div>
+
+<div class="results" id="results"></div>
+
+</div>
+
+<script>
+
+const alphabet='ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+const letters=document.getElementById('letters');
+
+alphabet.forEach(letter=>{
+    letters.innerHTML += `
+        <a class="letter" href="letters/${letter}.html">${letter}</a>
+    `;
+});
+
+let artists=[];
+
+fetch('search_index.json')
+.then(r=>r.json())
+.then(data=>{
+    artists=data;
+});
+
+const results=document.getElementById('results');
+
+document.getElementById('search').addEventListener('input',e=>{
+
+    const q=e.target.value.toLowerCase();
+
+    results.innerHTML='';
+
+    if(q.length < 2) return;
+
+    artists
+        .filter(a=>a.artist.toLowerCase().includes(q))
+        .slice(0,40)
+        .forEach(a=>{
+
+            results.innerHTML += `
+                <div class="artist">
+                    <a href="letters/${a.letter}.html#${encodeURIComponent(a.artist)}">
+                        ${a.artist}
+                    </a>
+                </div>
+            `;
+        });
+});
+
+</script>
+
+</body>
+</html>
